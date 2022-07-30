@@ -53,7 +53,7 @@ The "PORT" data corresponds to the port where the service will run.
              
              
              
-      1. GET: /api/diaries/:id
+      2. GET: /api/diaries/:id
     
       Returns an object filtered by id, if it does not exist it will return a 404.
              The response body will have this structure:  
@@ -67,7 +67,7 @@ The "PORT" data corresponds to the port where the service will run.
              }
                     
              
-    1. POST: //api/diaries 
+    3. POST: //api/diaries 
     
       Saves a new object.
              The send body will have this structure:  
@@ -81,7 +81,7 @@ The "PORT" data corresponds to the port where the service will run.
                    
                     
                     
-    2. PATCH: /api/diaries/:id 
+    4. PATCH: /api/diaries/:id 
     
       Update an object filtered by id, if it does not exist it will return a 404.  
             El body de envio tendrá esta estructura para arrancar el variador:   
