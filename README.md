@@ -67,7 +67,7 @@ The "PORT" data corresponds to the port where the service will run.
              }
                     
              
-    3. POST: //api/diaries 
+    3. POST: /api/diaries 
     
       Saves a new object.
              The send body will have this structure:  
