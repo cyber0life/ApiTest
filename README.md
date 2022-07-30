@@ -5,6 +5,7 @@ To run the api you must have node.js installed:
       
     1. Download the repository.  
     2. Perform the command "npm i" to install all the dependencies.  
+    3. Run the command npm run tsc to transpile from typscript to javascript.
     3. Execute the server.js with the command "node run start" 
     
 
