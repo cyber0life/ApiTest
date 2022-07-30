@@ -96,6 +96,7 @@ The "PORT" data corresponds to the port where the service will run.
     
 ## TESTING  
   This example has implemented integration tests using jest and the supertest package, to run it use the command "npm run tests". The output should look like the following:
+          
           test/diaries.test.ts
         √ TEST GET ENDPOINT (21 ms)
         √ TEST GET ENDPOINT WITH PARAMS (4 ms)
