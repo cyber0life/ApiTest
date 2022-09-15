@@ -1,4 +1,4 @@
-# AuraTest
+# ApiTest
 ### Testing a typescript CRUD api that simulates extracting data from a json.
 
 To run the api you must have node.js installed:  
