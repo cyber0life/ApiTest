@@ -85,7 +85,7 @@ The "PORT" data corresponds to the port where the service will run.
     4. PATCH: /api/diaries/:id 
     
       Update an object filtered by id, if it does not exist it will return a 404.  
-            El body de envio tendrá esta estructura para arrancar el variador:   
+            The send body will have this structure: 
             
              {
                   "date": "2017-01-01",
